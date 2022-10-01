@@ -14,11 +14,11 @@ I created two tables one that stores the workers information such as their worke
 
 # Development Environment
 
-Visual Studio Code
+* Visual Studio Code
 
-Python 3.9.5 64 bit
-mysql.connector 
-CSV library
+* Python 3.9.5 64 bit
+* mysql.connector 
+* CSV library
 
 # Useful Websites
 
